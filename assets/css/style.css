@@ -37,6 +37,8 @@ h1,h2 {
     background-color: white;
 }
 
+
+/* customise header  */
 #hero {
     background-color: #dbdcde; /* light grey */
     background-image: url(../images/background.webp) ;
